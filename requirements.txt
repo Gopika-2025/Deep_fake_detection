@@ -1,0 +1,8 @@
+flask
+opencv-python
+torch
+tensorflow
+matplotlib
+scikit-learn
+mediapipe
+face_recognition
